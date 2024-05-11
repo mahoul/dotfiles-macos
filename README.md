@@ -1,14 +1,14 @@
 # dotfiles-macos
 Mahoul's dotfiles for MacOS X
 
-# Yabai config file
+## Yabai config file
 .config/yabai/yabairc
 
-# Skhd
+## Skhd
 .skhdrc
 
-# Alacrity
+## Alacrity
 .config/alacritty/alacritty.yml
 
-# Tmux
+## Tmux
 .config/tmux/tmux.conf
